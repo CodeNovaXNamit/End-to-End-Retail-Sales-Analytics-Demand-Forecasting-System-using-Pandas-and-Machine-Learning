@@ -13,3 +13,4 @@ Status: Phase 0–1 (Setup + Dataset Understanding)
 BY using this program you can learn how to manipulate data
 by using this you can learn how to manipulate data using python libraries using pandas.
 
+Make sure to study more about shift and rolling cause im not able to understand them
